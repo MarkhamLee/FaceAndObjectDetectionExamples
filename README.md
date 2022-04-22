@@ -2,10 +2,6 @@
 
 Basic tutorials/examples depicting the performance, accuracy and other characteristics of a couple of face detection technologies. 
 
-Note:
-* To avoid running afoul of Github's limits on large files, I didn't upload the underlying model files for Haar Cascade, 
-
-
 ## Plans for future updates
 * More details on how the face detection technologies work, including details on the hyperparameters
 * Add additional face detection technology examples 
