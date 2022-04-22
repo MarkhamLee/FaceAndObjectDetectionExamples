@@ -14,6 +14,9 @@ Basic tutorials/examples depicting the performance, accuracy and other character
 ### Update History
 * **4/21/2022:** initial commit with examples of facial detection using Haar Cascade with OpenCV and MTCNN, including external helper scripts for the Jupyter Notebook, and sample image files  
 
+### Note on images
+* The images used in this repo are either just images I found online or come from the [Labeled Faces in the Wild Dataset.](http://vis-www.cs.umass.edu/lfw/) If the original owners of these photos have an issue with my use of any of the photos used or stored in this repo, let me know and I will remove them immediately. 
+
 ### References
 * The original data files for Haar Cascade can be found [here](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_fullbody.xml)
 * This repo was both inspired and informed by:
