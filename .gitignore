@@ -1,3 +1,4 @@
 # ignore the models folder 
 models/
+.ipynb_checkpoints/
 
